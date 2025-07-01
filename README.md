@@ -27,7 +27,7 @@ This is a Gmail Clone web application built using the MERN stack (MongoDB, Expre
 
 - Inbox Page (https://github.com/user-attachments/assets/3455f9c6-d550-4faa-9847-b7d4c066e423)
 
-- MongoDB Compass data view
+ MongoDB Compass data view
 - Showing Emails (https://github.com/user-attachments/assets/f2872ea6-582f-4306-a416-82fc703d6040)
 - Showing Users (https://github.com/user-attachments/assets/eee69a53-8966-418f-9a16-ece878226983)
 
